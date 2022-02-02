@@ -3,5 +3,6 @@
 ```
 git clone https://github.com/RotimiOperator/ct-reactjs.git
 cd ct-reactjs
+npm install
 npm start
 ```
